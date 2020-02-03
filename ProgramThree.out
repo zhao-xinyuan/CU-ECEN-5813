@@ -1,0 +1,8 @@
+Initial Value:          face
+Test:true           1111101011001110
+Test 735f
+Reverse:true        111001101011111
+Rotate the value:       735f
+Left by 6:true      111001101011111
+Rotate the value:39af
+Right by 4:true     11100110101111

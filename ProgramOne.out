@@ -1,0 +1,120 @@
+Input:  Value              -6                           Radix 10                       Operand 4                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b110                        0b1111                         0b0                   
+Octal(abs)                 6                             17                              0                   
+Decimal(abs)               6                             15                              0                   
+Hexadecimal(abs)           6                             f                               0                   
+Signed One's Complement    1001                         111                            1000                
+Signed two's Complement    1010                         111                            1001                
+Sign-Magnitude             1110                         111                            1111                
+
+Input:  Value              -7                           Radix 10                       Operand 4                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b111                        0b1111                         0b0                   
+Octal(abs)                 7                             17                              0                   
+Decimal(abs)               7                             15                              0                   
+Hexadecimal(abs)           7                             f                               0                   
+Signed One's Complement    1000                         111                            1000                
+Signed two's Complement    1001                         111                            1001                
+Sign-Magnitude             1111                         111                            1111                
+
+Input:  Value              -7                           Radix 9                        Operand 4                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b111                        0b1111                         0b0                   
+Octal(abs)                 7                             17                              0                   
+Decimal(abs)               7                             15                              0                   
+Hexadecimal(abs)           7                             f                               0                   
+Signed One's Complement    1000                         111                            1000                
+Signed two's Complement    1001                         111                            1001                
+Sign-Magnitude             1111                         111                            1111                
+
+Input:  Value              -7                           Radix 10                       Operand 5                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b111                        0b11111                        0b0                   
+Octal(abs)                 7                             37                              0                   
+Decimal(abs)               7                             31                              0                   
+Hexadecimal(abs)           7                             1f                              0                   
+Signed One's Complement    error                        error                          error               
+Signed two's Complement    error                        error                          error               
+Sign-Magnitude             error                        error                          error               
+
+Input:  Value              -10                          Radix 10                       Operand 4                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b1010                       0b1111                         0b0                   
+Octal(abs)                 12                            17                              0                   
+Decimal(abs)               10                            15                              0                   
+Hexadecimal(abs)           a                             f                               0                   
+Signed One's Complement    error                         111                            1000                
+Signed two's Complement    error                         111                            1001                
+Sign-Magnitude             error                         111                            1111                
+
+Input:  Value              236                          Radix 10                       Operand 8                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b11101100                   0b11111111                     0b0                   
+Octal(abs)                 354                           377                             0                   
+Decimal(abs)               236                           255                             0                   
+Hexadecimal(abs)           ec                            ff                              0                   
+Signed One's Complement    error                         1111111                        10000000            
+Signed two's Complement    error                         1111111                        10000001            
+Sign-Magnitude             error                         1111111                        11111111            
+
+Input:  Value              236                          Radix 8                        Operand 8                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b11101100                   0b11111111                     0b0                   
+Octal(abs)                 354                           377                             0                   
+Decimal(abs)               236                           255                             0                   
+Hexadecimal(abs)           ec                            ff                              0                   
+Signed One's Complement    error                         1111111                        10000000            
+Signed two's Complement    error                         1111111                        10000001            
+Sign-Magnitude             error                         1111111                        11111111            
+
+Input:  Value              235                          Radix 16                       Operand 8                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b11101011                   0b11111111                     0b0                   
+Octal(abs)                 353                           377                             0                   
+Decimal(abs)               235                           255                             0                   
+Hexadecimal(abs)           eb                            ff                              0                   
+Signed One's Complement    error                         1111111                        10000000            
+Signed two's Complement    error                         1111111                        10000001            
+Sign-Magnitude             error                         1111111                        11111111            
+
+Input:  Value              -125                         Radix 10                       Operand 8                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b1111101                    0b11111111                     0b0                   
+Octal(abs)                 175                           377                             0                   
+Decimal(abs)               125                           255                             0                   
+Hexadecimal(abs)           7d                            ff                              0                   
+Signed One's Complement    10000010                     1111111                        10000000            
+Signed two's Complement    10000011                     1111111                        10000001            
+Sign-Magnitude             11111101                     1111111                        11111111            
+
+Input:  Value              65400                        Radix 10                       Operand 8                   
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b1111111101111000           0b11111111                     0b0                   
+Octal(abs)                 177570                        377                             0                   
+Decimal(abs)               65400                         255                             0                   
+Hexadecimal(abs)           ff78                          ff                              0                   
+Signed One's Complement    error                         1111111                        10000000            
+Signed two's Complement    error                         1111111                        10000001            
+Sign-Magnitude             error                         1111111                        11111111            
+
+Input:  Value              65400                        Radix 10                       Operand 16                  
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b1111111101111000           0b1111111111111111             0b0                   
+Octal(abs)                 177570                        177777                          0                   
+Decimal(abs)               65400                         65535                           0                   
+Hexadecimal(abs)           ff78                          ffff                            0                   
+Signed One's Complement    error                         111111111111111                1000000000000000    
+Signed two's Complement    error                         111111111111111                1000000000000001    
+Sign-Magnitude             error                         111111111111111                1111111111111111    
+
+Input:  Value              -32701                       Radix 10                       Operand 16                  
+Output:                    value                        Maximum                        Minimum             
+Binary(abs)                0b111111110111101            0b1111111111111111             0b0                   
+Octal(abs)                 77675                         177777                          0                   
+Decimal(abs)               32701                         65535                           0                   
+Hexadecimal(abs)           7fbd                          ffff                            0                   
+Signed One's Complement    1000000001000010             111111111111111                1000000000000000    
+Signed two's Complement    1000000001000011             111111111111111                1000000000000001    
+Sign-Magnitude             1111111110111101             111111111111111                1111111111111111    
+

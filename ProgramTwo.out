@@ -1,0 +1,20 @@
+Code: 66     type:           Upper Case     ASCII_CHAR:          B 
+Code: 114    type:           Lower Case     ASCII_CHAR:          r 
+Code: 117    type:           Lower Case     ASCII_CHAR:          u 
+Code: 99     type:           Lower Case     ASCII_CHAR:          c 
+Code: 101    type:           Lower Case     ASCII_CHAR:          e 
+Code: 32     type:          white space     ASCII_CHAR:            
+Code: 83     type:           Upper Case     ASCII_CHAR:          S 
+Code: 97     type:           Lower Case     ASCII_CHAR:          a 
+Code: 121    type:           Lower Case     ASCII_CHAR:          y 
+Code: 115    type:           Lower Case     ASCII_CHAR:          s 
+Code: 32     type:          white space     ASCII_CHAR:            
+Code: 72     type:           Upper Case     ASCII_CHAR:          H 
+Code: 105    type:           Lower Case     ASCII_CHAR:          i 
+Code: 33     type:    Special character     ASCII_CHAR:          ! 
+Code: 7      type:          white space     ASCII_CHAR:            
+Code: 9      type:          white space     ASCII_CHAR:            
+Code: 50     type:                digit     ASCII_CHAR:          2 
+Code: 48     type:                digit     ASCII_CHAR:          0 
+Code: 49     type:                digit     ASCII_CHAR:          1 
+Code: 57     type:                digit     ASCII_CHAR:          9 
